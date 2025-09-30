@@ -1,0 +1,23 @@
+#ctr {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+#inner-ctr {
+    border: 1px solid #000;
+    position:absolute;
+    top: 0;
+    left: 0;
+}
+
+#inner-ctr button {
+    position: absolute;
+}
+
+#inner-ctr .number-display{
+    font-family: monospace; 
+    position: absolute;
+    border: 1px solid #000;
+    text-align: left;
+}
